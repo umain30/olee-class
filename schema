@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "url": "https://www.oleeclass.com",
+        "logo": "https://www.oleeclass.com/images/d3baece.png",
+        "name": "Oda Class",
+        "sameAs": [
+          "https://www.linkedin.com/company/oleeclass",
+          "https://www.facebook.com/OleeClass",
+          "https://www.youtube.com/channel/oleeclass",
+          "https://www.instagram.com/oleeclass",
+          "https://vm.tiktok.com/oleeclass"
+        ]
+      }
+    </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Olee Class",
+        "image": "",
+        "url": "https://www.oleeclass.com",
+        "logo": "https://www.oleeclass.com/images/d3baece.png",
+        "description": "🎓 OLEE Class is India’s Best Education App! 👩‍💻 Better Teacher - Better Education - Better Life 👨‍💻 Expert Teachers from 📚 IITs/NITs, Mentored Top Rankers of AIR2 – now Learn from India’s Best Teachers. 🇮🇳 Learn with experienced IIT teachers, Free Live Learning App Class 1-11 🇮🇳 CBSE",
+        "telephone": "+91 XXXXXXXXXXX; +91 XXXXXXXXXX",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Country",
+          "addressRegion": "ON",
+          "streetAddress": "North Barpeta,Barpeta,Assam, 7813101"
+        },
+        "openingHours": ["Mo-Sa 11:00-21:00"]
+      }
+    </script>
